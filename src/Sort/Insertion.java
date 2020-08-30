@@ -46,7 +46,5 @@ public class Insertion
         System.out.println("The output is ");
         show(a);
     }
-
-
 }
 
